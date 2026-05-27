@@ -17,6 +17,6 @@
   <!doctype html>
 
   <p><a href="https://crazemazle.github.io/-/">결과물</a></p>
-  <img width="300" height="200" src="https://marketplace.canva.com/STxH8/MAHCl0STxH8/1/tl/canva-cute-light-blue-cat-illustration-MAHCl0STxH8.png">
+  <img width="300" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg">
   </body>
 </html>
