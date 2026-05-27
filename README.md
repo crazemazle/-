@@ -20,8 +20,8 @@
 <!-- 사진 첨부 -->
   <p><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></p>
   <!-- 사진에 링크 -->
-  <a href="https://crazemazle.github.io/-/"><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></a>
+  <p><a href="https://crazemazle.github.io/-/"><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></a></p>
   <!-- 동영상 삽입 -->
-  <iframe width="1410" height="793" src="https://www.youtube.com/embed/Qsk9S_GHL_s" title="엄마 미안해" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="1410" height="793" src="https://www.youtube.com/embed/Kb7uNQ0TZ0k?list=RDKb7uNQ0TZ0k" title="☕ Cafe Playlist #2 | 저작권없는 | 12시간 | 이 노래 뭐에요? 손님들이 물어보는 감성 음악 팝송 노래 모음🎶☕ | 카페플리 | 미미네음악" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </body>
 </html>
