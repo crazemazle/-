@@ -15,8 +15,11 @@
   <p>문단1 만들기</p>
   <p>문단2 만들기</p>  
   <!doctype html>
-
+<!-- 링크 첨부 -->
   <p><a href="https://crazemazle.github.io/-/">결과물</a></p>
-  <img width="350" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg">
+<!-- 사진 첨부 -->
+  <p><img width="350" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg"></p>
+  <!-- 사진에 링크 -->
+  <a href="https://crazemazle.github.io/-/"><img width="350" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg"></a>
   </body>
 </html>
