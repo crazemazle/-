@@ -31,7 +31,7 @@
   </ul>
   <!-- 목록 중첩하기 -->
   <ol>
-    <ul type="circle">4중대
+    <ul type="square">4중대
       <li>손예준</li>
       <li>정성빈</li>
       <li>곽요한</li>
