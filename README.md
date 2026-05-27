@@ -17,6 +17,6 @@
   <!doctype html>
 
   <p><a href="https://crazemazle.github.io/-/">결과물</a></p>
-  <img width="300" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg">
+  <img width="130" height="195" src="https://photo.newsen.com/news_photo/2023/04/30/202304301932423510_1.jpg">
   </body>
 </html>
