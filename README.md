@@ -22,6 +22,6 @@
   <!-- 사진에 링크 -->
   <p><a href="https://crazemazle.github.io/-/"><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></a></p>
   <!-- 동영상 삽입 -->
-  <iframe width="1410" height="793" src="https://www.youtube.com/embed/Kb7uNQ0TZ0k?list=RDKb7uNQ0TZ0k" title="☕ Cafe Playlist #2 | 저작권없는 | 12시간 | 이 노래 뭐에요? 손님들이 물어보는 감성 음악 팝송 노래 모음🎶☕ | 카페플리 | 미미네음악" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="1410" height="793" src="https://www.youtube.com/embed/OrCOflk2QmQ" title="갸루와 거제에 왔습니다" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </body>
 </html>
