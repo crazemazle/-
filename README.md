@@ -14,6 +14,9 @@
   <h2>Body 만들기</h2>
   <p>문단1 만들기</p>
   <p>문단2 만들기</p>  
+  <!doctype html>
+
+  <a href="https://crazemazle.github.io/-/">뭐가 열릴까요</a>
   
   </body>
 </html>
