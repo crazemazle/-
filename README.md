@@ -17,6 +17,6 @@
   <!doctype html>
 
   <a href="https://crazemazle.github.io/-/">뭐가 열릴까요</a>
-  
+  <img width="400" height="200" scr="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg">
   </body>
 </html>
