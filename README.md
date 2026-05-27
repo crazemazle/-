@@ -16,7 +16,7 @@
   <p>문단2 만들기</p>  
   <!doctype html>
 
-  <a href="https://crazemazle.github.io/-/">뭐가 열릴까요</a>
-  <img width="400" height="300" scr="https://marketplace.canva.com/STxH8/MAHCl0STxH8/1/tl/canva-cute-light-blue-cat-illustration-MAHCl0STxH8.png">
+  <p><a href="https://crazemazle.github.io/-/">결과물</a></p>
+  <img width="300" height="200" src="https://marketplace.canva.com/STxH8/MAHCl0STxH8/1/tl/canva-cute-light-blue-cat-illustration-MAHCl0STxH8.png">
   </body>
 </html>
