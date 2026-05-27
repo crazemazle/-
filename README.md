@@ -22,6 +22,7 @@
   <!-- 사진에 링크 -->
   <p><a href="https://crazemazle.github.io/-/"><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></a></p>
   <!-- 동영상 삽입 -->
-  <iframe width="1410" height="793" src="https://www.youtube.com/embed/OrCOflk2QmQ" title="갸루와 거제에 왔습니다" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p><iframe width="1080" height="720" src="https://www.youtube.com/embed/OrCOflk2QmQ" title="갸루와 거제에 왔습니다" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  <!--  -->
   </body>
 </html>
