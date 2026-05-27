@@ -18,8 +18,10 @@
 <!-- 링크 첨부 -->
   <p><a href="https://crazemazle.github.io/-/">결과물</a></p>
 <!-- 사진 첨부 -->
-  <p><img width="350" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg"></p>
+  <p><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></p>
   <!-- 사진에 링크 -->
-  <a href="https://crazemazle.github.io/-/"><img width="350" height="200" src="https://i.ytimg.com/vi/hOK_eFVbL04/maxresdefault.jpg"></a>
+  <a href="https://crazemazle.github.io/-/"><img width="200" height="200" src="https://yt3.googleusercontent.com/Y7S_FlRrIO4uEUgtmlPSR_1lqFE4WuAML-nGkvSaM3IZg6nMdTRaeBht-PB2x35JBXrpyGC_WQ=s160-c-k-c0x00ffffff-no-rj"></a>
+  <!-- 동영상 삽입 -->
+  <iframe width="1410" height="793" src="https://www.youtube.com/embed/Qsk9S_GHL_s" title="엄마 미안해" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </body>
 </html>
